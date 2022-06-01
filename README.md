@@ -3,3 +3,4 @@
 
 $ git config --global user.name "JandaGo"
 $ git config --global user.email qkrwogks7094@gmail.com
+1
